@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バリア",
+  "base_artist": "SixTONES",
+  "createdAt": "2025-12-28T02:52:26.902216Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バリア",
+      "artist": "SixTONES",
+      "has_synced": false,
+      "path": "select/pl_01_バリア_SixTONES.txt"
+    }
+  ]
+}
